@@ -2,6 +2,18 @@
 
 A simple, graphical desktop application developed in Java for managing product billing and generating invoices. The system features a login interface for secure access and a main frame for entering product details, calculating totals, and displaying the final bill.
 
+## 📸 Application Screenshots
+
+### Login Interface
+The secure entry point of the application, featuring custom placeholder text.
+<img width="1573" height="701" alt="Screenshot 2025-11-26 205552" src="https://github.com/user-attachments/assets/51c8fec2-8f97-45d8-a571-c8ba67d07126" />
+
+### Main Billing Interface
+The core screen for product entry, calculation, and invoice generation.
+<img width="1797" height="940" alt="Screenshot 2025-11-26 205852" src="https://github.com/user-attachments/assets/e6816183-37df-4b10-8418-a09c157318db" />
+
+
+
 ## Features
 
 * **Login Interface:** Secure access control using a username and password.
@@ -63,6 +75,4 @@ Feel free to fork the repository and submit pull requests. Any improvements, bug
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. (Create a simple `LICENSE.md` file if you plan to use this.)
 
 
-<img width="1573" height="701" alt="Screenshot 2025-11-26 205552" src="https://github.com/user-attachments/assets/51c8fec2-8f97-45d8-a571-c8ba67d07126" />
-<img width="1797" height="940" alt="Screenshot 2025-11-26 205852" src="https://github.com/user-attachments/assets/e6816183-37df-4b10-8418-a09c157318db" />
 
